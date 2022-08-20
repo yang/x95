@@ -1,0 +1,111 @@
+.root {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+}
+.svg {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 48px;
+  height: 43px;
+  margin-bottom: -26px;
+  z-index: 1;
+  flex-shrink: 0;
+}
+.freeBox__qbE3U {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-bottom: var(--token-pI4rEvTz3);
+  min-width: 0;
+}
+.img__udr2F {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 100%;
+}
+.img__udr2F > picture > img {
+  object-fit: cover;
+}
+.img__udr2F > .__wab_img-spacer > img {
+  object-fit: cover;
+}
+.freeBox__yO3Xt {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  margin-bottom: var(--token-1PLQr-EyN);
+  min-width: 0;
+}
+.svg__mdzyr {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 50px;
+  height: 32px;
+  color: #ffffff;
+  flex-shrink: 0;
+}
+.freeBox__yZ9Ci {
+  position: relative;
+  width: 100%;
+  height: auto;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  margin-left: -25px;
+  min-width: 0;
+  padding: 0px 25px 0px 0px;
+}
+.slotTargetSlot3 {
+  text-align: center;
+  text-transform: uppercase;
+  line-height: var(--token-YC4TslGXR);
+}
+.freeBox__nk37A {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: center;
+  min-width: 0;
+}
+.text {
+  position: relative;
+  height: auto;
+  margin-right: var(--token-rP56rnpft);
+  font-size: var(--token-FEUOUMMf-);
+}
+.slotTargetChildren {
+  line-height: var(--token-YC4TslGXR);
+  font-size: var(--token-FEUOUMMf-);
+}

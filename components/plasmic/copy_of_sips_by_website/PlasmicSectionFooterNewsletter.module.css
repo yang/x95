@@ -1,0 +1,138 @@
+.root {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  background: #f2f2f2;
+  position: relative;
+  min-width: 0;
+  border-radius: 5px;
+  padding: var(--token-pI4rEvTz3) var(--token-pI4rEvTz3) var(--token-o8VnbrgjB);
+}
+@media (min-width: 600px) {
+  .root {
+    padding: var(--token-kuG7Bh3dw) var(--token-kuG7Bh3dw)
+      var(--token-o8VnbrgjB);
+  }
+}
+.freeBox__esfoV {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+}
+.h3 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  margin-bottom: var(--token-rP56rnpft);
+  display: flex;
+  flex-direction: row;
+  min-width: 0;
+}
+.slotTargetChildren {
+  font-size: var(--token-wKlQUFzur);
+}
+@media (min-width: 600px) {
+  .slotTargetChildren {
+    font-size: var(--token-vCMxBaVg-);
+  }
+}
+.freeBox__yhtNp {
+  position: relative;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: var(--token-Dpi4Tw_Jy);
+  min-width: 0;
+}
+.slotTargetSlot {
+  font-size: var(--token-FEUOUMMf-);
+}
+@media (min-width: 600px) {
+  .slotTargetSlot {
+    font-size: var(--token-wKlQUFzur);
+  }
+}
+.form {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+}
+.dontDeleteAccessibilityLabel {
+  position: relative;
+  width: 1px;
+  height: 1px;
+  color: #222222;
+  flex-shrink: 0;
+  display: block;
+}
+.freeBox__ce1Jl {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+}
+.emailInput {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  font-size: 16px;
+  min-width: 0;
+  padding: var(--token-Dpi4Tw_Jy) 33px var(--token-Dpi4Tw_Jy)
+    var(--token-Dpi4Tw_Jy);
+}
+.button {
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  width: auto;
+  height: 100%;
+  max-width: 100%;
+  top: 0px;
+  left: auto;
+  right: 0px;
+  padding: var(--token-Dpi4Tw_Jy) var(--token-1PLQr-EyN) var(--token-Dpi4Tw_Jy)
+    var(--token-Dpi4Tw_Jy);
+  border-width: 1px;
+  border-style: none;
+}
+.svg {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 1em;
+  height: 1em;
+  flex-shrink: 0;
+}
+.dontDeleteSubmissionMessage {
+  position: absolute;
+  width: 100%;
+  height: auto;
+  font-size: var(--token-FEUOUMMf-);
+  left: 0px;
+  top: 50px;
+  min-width: 0;
+  display: block;
+}

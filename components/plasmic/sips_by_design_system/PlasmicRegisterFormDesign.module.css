@@ -1,0 +1,179 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: 333px;
+  justify-content: center;
+  align-items: center;
+  padding-right: 0px;
+  max-width: none;
+  min-width: 0;
+}
+.h1 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  text-align: center;
+  min-width: 0;
+}
+.text__lMkez {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  min-width: 0;
+}
+.freeBox___7TyZk {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 8px;
+}
+.text___7EhRi {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  min-width: 0;
+}
+.firstName:global(.__wab_instance) {
+  max-width: 350px;
+  position: relative;
+}
+@media (min-width: 600px) {
+  .firstName:global(.__wab_instance) {
+    max-width: 100%;
+  }
+}
+.svg__wGzr {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.svg__dUu0T {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.freeBox__yc7Ct {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 8px;
+}
+.text__ty7Br {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  min-width: 0;
+}
+.email:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.svg__wgs3U {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.svg__uzj9H {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.freeBox__vI7V {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 8px;
+}
+.passwordLabel {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  min-width: 0;
+}
+.email2:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.svg__p2MsR {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.svg__xd4O {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.button:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+  width: 100%;
+  margin-top: 24px;
+  min-width: 0;
+}
+.svg__ng34 {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.svg__cPqhg {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.freeBox__i9Rfr {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 8px;
+}
+.text__zmr9M {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  font-size: var(--token-FGghT75DI);
+  min-width: 0;
+}
+.link {
+  position: relative;
+}

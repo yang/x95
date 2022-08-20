@@ -1,0 +1,16 @@
+.root2 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+.rootImg {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+}
+.rootImg > picture > img {
+  object-fit: cover;
+}
+.rootImg > .__wab_img-spacer > img {
+  object-fit: cover;
+}

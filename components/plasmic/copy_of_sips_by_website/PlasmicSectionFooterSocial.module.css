@@ -1,0 +1,125 @@
+.root {
+  flex-direction: row;
+  display: flex;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  position: relative;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: calc(0px - var(--token-pI4rEvTz3));
+  width: calc(100% + var(--token-pI4rEvTz3));
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.root > :global(.__wab_flex-container) > picture > img,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: var(--token-pI4rEvTz3);
+}
+.sipsByOnInstagram {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+.root .sipsByOnInstagram:hover {
+  color: var(--token-8jLkKh2mD);
+}
+.svg__grRoM {
+  object-fit: cover;
+  max-width: 100%;
+  width: 25px;
+  height: 25px;
+  flex-shrink: 0;
+}
+.sipsByOnFacebook {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+.root .sipsByOnFacebook:hover {
+  color: var(--token-8jLkKh2mD);
+}
+.svg___4WhoM {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 25px;
+  height: 25px;
+  flex-shrink: 0;
+}
+.sipsByOnTwitter {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+.root .sipsByOnTwitter:hover {
+  color: var(--token-8jLkKh2mD);
+}
+.svg__h9Sra {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 25px;
+  height: 25px;
+  flex-shrink: 0;
+}
+.sipsByOnPinterest {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+.root .sipsByOnPinterest:hover {
+  color: var(--token-8jLkKh2mD);
+}
+.svg___74WhI {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 25px;
+  height: 25px;
+  flex-shrink: 0;
+}
+.sipsByOnTikTok {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+.root .sipsByOnTikTok:hover {
+  color: var(--token-8jLkKh2mD);
+}
+.svg__oD2Co {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 25px;
+  height: 25px;
+  flex-shrink: 0;
+}

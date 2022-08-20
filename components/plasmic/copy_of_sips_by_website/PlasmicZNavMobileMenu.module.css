@@ -1,0 +1,130 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+}
+.freeBox__qRq3T {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: var(--token-1PLQr-EyN) var(--token-pI4rEvTz3);
+}
+.img {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+}
+.img > picture > img {
+  object-fit: cover;
+}
+.img > .__wab_img-spacer > img {
+  object-fit: cover;
+}
+.freeBox___429Sb {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  border-top-style: solid;
+  border-top-width: 1px;
+  min-width: 0;
+}
+.sectionMobileMenuSubmenuLink__wn1Zw:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.sectionMobileMenuSubmenuLink__ipyMb:global(.__wab_instance) {
+  max-width: 100%;
+}
+.freeBox__yfbFc {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+}
+.freeBox___2KjXk {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+}
+.freeBox__isAhg {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+}
+.freeBox__cUbSf {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+}
+.text__j8NIy {
+  height: auto;
+}
+.freeBox__e5Fdj {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+}
+.text__p8Ef5 {
+  height: auto;
+}
+.freeBox__dnd8W {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+}
+.text___0MOc0 {
+  height: auto;
+}

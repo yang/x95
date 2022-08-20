@@ -1,0 +1,97 @@
+.root {
+  flex-direction: row;
+  display: flex;
+  position: relative;
+  background: var(--token-8jLkKh2mD);
+  cursor: pointer;
+  transition-property: background;
+  transition-duration: 0.1s;
+  text-decoration-line: none;
+  -webkit-transition-property: background;
+  -webkit-transition-duration: 0.1s;
+  border-radius: 100px;
+  padding: 12px 20px;
+  border-width: 0px;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: calc(0px - 8px);
+  width: calc(100% + 8px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.root > :global(.__wab_flex-container) > picture > img,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 8px;
+}
+.rootbuttonColor_darkPink {
+  background: #f58f8a;
+}
+.root:hover {
+  background: #fdf7f0;
+  border-style: solid;
+  border-color: #d3d3d3;
+}
+.rootbuttonColor_darkPink:hover {
+  background: #fdf7f0;
+}
+.root:active {
+  background: #ffffff;
+}
+.startIconContainer {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.slotTargetStartIcon {
+  color: #ededec;
+}
+.svg___8Lbaz {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+  flex-shrink: 0;
+}
+.contentContainer {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.slotTargetChildren {
+  color: #ffffff;
+  font-weight: 500;
+  white-space: pre;
+}
+.slotTargetChildrenbuttonColor_darkPink {
+  color: var(--token-8jLkKh2mD);
+}
+.root:hover .slotTargetChildren {
+  color: var(--token-8jLkKh2mD);
+}
+.root:active .slotTargetChildren {
+  color: var(--token-8jLkKh2mD);
+}
+.endIconContainer {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.slotTargetEndIcon {
+  color: #ededec;
+}
+.svg___5SSeB {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+  flex-shrink: 0;
+}

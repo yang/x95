@@ -1,0 +1,55 @@
+.root {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  text-decoration-line: none;
+}
+.slotTargetChildren {
+  font-size: var(--token-FEUOUMMf-);
+}
+.slotTargetChildren > .__wab_text,
+.slotTargetChildren > .__wab_slot-string-wrapper,
+.slotTargetChildren > .__wab_slot > .__wab_text,
+.slotTargetChildren > .__wab_slot > .__wab_slot-string-wrapper,
+.slotTargetChildren > .__wab_slot > .__wab_slot > .__wab_text,
+.slotTargetChildren > .__wab_slot > .__wab_slot > .__wab_slot-string-wrapper,
+.slotTargetChildren > .__wab_slot > .__wab_slot > .__wab_slot > .__wab_text,
+.slotTargetChildren
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot-string-wrapper {
+  text-decoration-line: none;
+}
+@media (min-width: 600px) {
+  .slotTargetChildren {
+    font-size: var(--token-wKlQUFzur);
+  }
+}
+.root:hover .slotTargetChildren {
+  color: var(--token-8jLkKh2mD);
+}
+.root:hover .slotTargetChildren > .__wab_text,
+.root:hover .slotTargetChildren > .__wab_slot-string-wrapper,
+.root:hover .slotTargetChildren > .__wab_slot > .__wab_text,
+.root:hover .slotTargetChildren > .__wab_slot > .__wab_slot-string-wrapper,
+.root:hover .slotTargetChildren > .__wab_slot > .__wab_slot > .__wab_text,
+.root:hover
+  .slotTargetChildren
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot-string-wrapper,
+.root:hover
+  .slotTargetChildren
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_text,
+.root:hover
+  .slotTargetChildren
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot-string-wrapper {
+  text-decoration-line: underline;
+}

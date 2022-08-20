@@ -1,0 +1,41 @@
+.root {
+  display: flex;
+  text-decoration-line: none;
+  position: relative;
+  color: var(--token-8jLkKh2mD);
+  transition-property: border-color;
+  transition-duration: 200ms;
+  -webkit-transition-property: border-color;
+  -webkit-transition-duration: 200ms;
+  border-bottom: 1px solid #22222200;
+}
+.rootgiftCardLink {
+  border-bottom-color: var(--token-8jLkKh2mD);
+}
+.root:hover {
+  border-bottom: 1px solid var(--token-8jLkKh2mD);
+}
+.freeBox {
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  display: flex;
+  flex-direction: row;
+  min-width: 0;
+}
+.slotTargetChildren {
+  font-size: var(--token-wKlQUFzur);
+}
+.slotTargetChildren > *,
+.slotTargetChildren > .__wab_slot > *,
+.slotTargetChildren > .__wab_slot > .__wab_slot > *,
+.slotTargetChildren > .__wab_slot > .__wab_slot > .__wab_slot > *,
+.slotTargetChildren > picture > img,
+.slotTargetChildren > .__wab_slot > picture > img,
+.slotTargetChildren > .__wab_slot > .__wab_slot > picture > img,
+.slotTargetChildren > .__wab_slot > .__wab_slot > .__wab_slot > picture > img {
+  transition-property: border;
+  transition-duration: 300ms;
+  -webkit-transition-property: border;
+  -webkit-transition-duration: 300ms;
+}

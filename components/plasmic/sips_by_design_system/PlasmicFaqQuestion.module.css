@@ -1,0 +1,14 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  justify-content: flex-start;
+  align-items: stretch;
+  min-width: 0;
+}
+.embedHtml__zKeWj:global(.__wab_instance) {
+  position: relative;
+  width: 100%;
+  min-width: 0;
+}

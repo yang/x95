@@ -1,0 +1,46 @@
+.root {
+  width: 100%;
+  transition-property: all;
+  transition-duration: 0.3s;
+  transition-timing-function: ease-out;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  text-decoration-line: none;
+  justify-content: space-between;
+  min-width: 0;
+  -webkit-transition-property: all;
+  -webkit-transition-timing-function: ease-out;
+  -webkit-transition-duration: 0.3s;
+  padding: var(--token-pI4rEvTz3);
+  border-bottom: 1px solid #bdbdbd;
+}
+.slotTargetChildren {
+  line-height: var(--token-2aqDy67m7);
+  font-size: var(--token-vCMxBaVg-);
+}
+.slotTargetChildren > .__wab_text,
+.slotTargetChildren > .__wab_slot-string-wrapper,
+.slotTargetChildren > .__wab_slot > .__wab_text,
+.slotTargetChildren > .__wab_slot > .__wab_slot-string-wrapper,
+.slotTargetChildren > .__wab_slot > .__wab_slot > .__wab_text,
+.slotTargetChildren > .__wab_slot > .__wab_slot > .__wab_slot-string-wrapper,
+.slotTargetChildren > .__wab_slot > .__wab_slot > .__wab_slot > .__wab_text,
+.slotTargetChildren
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot-string-wrapper {
+  text-decoration-line: none;
+}
+.freeBox {
+  position: relative;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+}
+.slotTargetDescription {
+  font-size: var(--token-wKlQUFzur);
+  color: #858585;
+}

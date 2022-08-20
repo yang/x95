@@ -1,0 +1,32 @@
+.root {
+  display: flex;
+  position: relative;
+}
+.freeBox {
+  position: relative;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  background: #ffffff;
+  min-width: 0;
+  border-radius: 40px;
+  padding: var(--token-Dpi4Tw_Jy) var(--token-1PLQr-EyN);
+  border: 1px solid #1212121a;
+}
+.freeBoxsize_small {
+  padding: var(--token-rP56rnpft) var(--token-Dpi4Tw_Jy);
+}
+.freeBoxvariant_inverse {
+  background: #000000;
+}
+.slotTargetChildren {
+  font-size: var(--token-FEUOUMMf-);
+  line-height: 1;
+}
+.slotTargetChildrensize_small {
+  font-size: var(--token-FGghT75DI);
+}
+.slotTargetChildrenvariant_inverse {
+  color: #ffffff;
+}
